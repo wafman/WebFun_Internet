@@ -1,0 +1,308 @@
+* {
+    width: 970px;
+    padding: 0px;
+    margin: 0px;
+    border: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+
+
+header {
+   width: 970px;
+}
+
+header span {
+    color: teal;
+}
+
+header div {
+    height: 65px;
+}
+
+header div img {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+}
+
+header div h1 {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 15px;
+    width: 470px;
+    font-size: 45px;
+    font-weight: normal;
+}
+
+header h2 {
+    width: 930px;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    font-size: 35px;
+    font-weight: normal;
+}
+
+.link_add {
+    display: inline-block;
+    width: 270px;
+    height: 950px;
+}
+
+.link_add h3 {
+    width: 200px;
+    margin: 25px 5px 10px 5px;
+}
+
+.link_add h3 span {
+    color: red;
+}
+
+.link_add p {
+    width: 210px;
+    margin: 5px 5px 25px 5px;
+}
+
+.link_add p span {
+    color: teal;
+}
+
+.link_add form {
+    width: 100px;
+    margin: 5px;
+}
+
+.link_add form #watch_video {
+    background-color: blue;
+    color: white;
+    width: 210px;
+    padding: 5px 0px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.link_add form #more_resources {
+    background-color: orange;
+    color: white;
+    width: 210px;
+    padding: 5px 0px;
+    border-radius: 5px;
+}
+
+.link_add #ad {
+    width: 210px;
+    height: 250px;
+    margin: 5px;
+}
+
+.link_add hr {
+    border: 1px solid black;
+    width: 210px; 
+    margin: 30px 5px;    
+}
+
+.link_add div {
+    width: 210px;
+    height: 310px;
+    background-image: url("images/ad_background.png");
+    margin: 5px;
+}
+
+.link_add div p {
+    color: white;
+    text-align: center;
+    width: 180px;
+    margin: 10px;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+.link_add div img {
+    width: 75px;
+    height: 100px;
+    margin: 0px 65px 10px;
+}
+
+.link_add div form {
+    width: 200px;
+}
+
+.link_add div form #learn_more {
+    width: 150px;
+    color: white;
+    background-color: teal;
+    padding: 5px 0px;
+    margin: 15px 20px 0px;
+    border-radius: 5px;
+}
+
+.container {
+    display: inline-block;
+    vertical-align: top;
+    width: 691px;
+}
+
+.contact {
+    display: inline-block;
+    width: 691px;
+}
+
+.contact .dns {
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+}
+
+.contact .dns h5 {
+    display: inline;
+    color: teal;
+    font-weight: bold;
+}
+
+.contact #home {
+    width: 20px;
+    height: 20px;
+}
+
+.contact .info {
+    display: inline-block;
+    vertical-align: top;
+    width: 210px;
+    margin-left: 150px;
+}
+
+.contact #phone {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+
+.contact .info div {
+    display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    padding: 5px;
+}
+
+.contact .info div p {
+    display: inline-block;
+    width: 150px;
+    font-size: 10px;
+}
+
+.contact .info div h2 {
+    display: inline-block;
+    color: teal;
+    vertical-align: top;
+    width: 150px;
+}
+
+.client {
+    display: block;
+    width: 691px;
+}
+
+.client hr {
+    border: 1px solid black;
+    width: 685px; 
+    margin: 5px 5px;    
+}
+
+.client h3 {
+    width: 200px;
+    color: teal;
+    padding: 10px 10px 5px;
+}
+
+.client span {
+    color: teal;
+}
+
+.client p {
+    width: 600px;
+    padding: 5px 10px 10px;
+}
+
+.client ul {
+    width: 600px;
+    padding-left: 40px;
+}
+
+.client ul li {
+    width: 600px;
+    padding: 5px;
+}
+
+.client img {
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    margin: 0px 185px;
+}
+
+.steps {
+    display: block;
+    width: 691px;
+}
+
+.steps span {
+    color: teal;
+}
+
+.steps h3 {
+    width: 400px;
+    color: teal;
+    padding: 10px 10px 5px;
+}
+
+.steps ol {
+    width: 600px;
+    padding-left: 50px;
+}
+
+.steps ol li {
+    width: 600px;
+    padding: 5px;
+}
+
+footer {
+    border: 5px solid skyblue;
+    width: 691px; 
+    padding-top: 10px;
+    margin-top: 15px;
+}
+
+footer img {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    padding-left: 10px;
+}
+
+footer div {
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    margin: 0px 10px; 
+}
+
+footer div h3 {
+    width: 400px;
+    color: teal;
+    padding: 5px;
+}
+
+footer div p {
+    width: 400px;
+    padding: 5px;
+}
+
+footer div a {
+    color: teal;
+}
