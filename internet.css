@@ -7,13 +7,12 @@
 }
 
 body {
-    background-color: white;
+    width: 970px;
+    background-color: rgba(211, 207, 207, 0.767);
 }
 
-
-
 header {
-   width: 970px;
+    width: 970px;
 }
 
 header span {
@@ -41,7 +40,7 @@ header div h1 {
 
 header h2 {
     width: 930px;
-    background-color: blue;
+    background-color: rgb(83, 120, 201);
     color: white;
     padding: 10px 20px;
     font-size: 35px;
@@ -51,7 +50,7 @@ header h2 {
 .link_add {
     display: inline-block;
     width: 270px;
-    height: 950px;
+    height: 865px;
 }
 
 .link_add h3 {
@@ -101,16 +100,16 @@ header h2 {
 }
 
 .link_add hr {
-    border: 1px solid black;
+    border: 1px solid rgb(83, 120, 201);
     width: 210px; 
-    margin: 30px 5px;    
+    margin: 30px 0px;    
 }
 
 .link_add div {
-    width: 210px;
+    width: 205px;
     height: 310px;
     background-image: url("images/ad_background.png");
-    margin: 5px;
+    margin: 5px 0px 5px 5px;
 }
 
 .link_add div p {
@@ -144,12 +143,12 @@ header h2 {
 .container {
     display: inline-block;
     vertical-align: top;
-    width: 691px;
+    width: 695px;
 }
 
 .contact {
     display: inline-block;
-    width: 691px;
+    width: 690px;
 }
 
 .contact .dns {
@@ -209,9 +208,9 @@ header h2 {
 }
 
 .client hr {
-    border: 1px solid black;
+    border: 1px solid rgb(83, 120, 201);
     width: 685px; 
-    margin: 5px 5px;    
+    margin: 5px 0px;    
 }
 
 .client h3 {
@@ -272,8 +271,8 @@ header h2 {
 }
 
 footer {
-    border: 5px solid skyblue;
-    width: 691px; 
+    border: 5px solid rgb(83, 120, 201);
+    width: 681px; 
     padding-top: 10px;
     margin-top: 15px;
 }
